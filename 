@@ -1,0 +1,42 @@
+[33mcommit 152127b2f7e3e12bc5dbb4de08da34de8c86150b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 3201220 0698f92
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:52:54 2025 -0600
+
+    Merge branch 'featureY'
+
+[33mcommit 320122068c82f9ad46a051fd3ad2156d0f87119d[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:51:02 2025 -0600
+
+    Web Pages Change
+
+[33mcommit 0698f92d6a885e260f1c89c921be9cb63a50c212[m[33m ([m[1;32mfeatureY[m[33m)[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:49:48 2025 -0600
+
+    Changed Greeting and changed paragraph
+
+[33mcommit dce363b5609a35ac73d7c7d6c3d4e6251839d4dd[m[33m ([m[1;32mfeatureX[m[33m)[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:45:36 2025 -0600
+
+    Changed Submit to Press and H1 to H3
+
+[33mcommit 953ca84c83e93f15ef8e1695f4bbc35f85518b71[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:41:31 2025 -0600
+
+    change submit to upload
+
+[33mcommit 3e07d4a6e4d38d0746991716d5e21f7da5953474[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:22:07 2025 -0600
+
+    Change Case of Submit Button
+
+[33mcommit a82d5b8b586de3bdb7a86d344a1fea1a11dcc1f9[m
+Author: Wally Steadman <wsteadman@ent.com>
+Date:   Tue Mar 18 13:18:54 2025 -0600
+
+    Initial Commit
